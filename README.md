@@ -65,7 +65,13 @@ Configured and applied **Strict Protection** policy:
 ---
 
 ## Screenshots
-
+![Lab screenshot 2](sc3.webp)
+![Lab screenshot 3](sc4.webp)
+![Lab screenshot 4](sc5.webp)
+![Lab screenshot 5](sc6.webp)
+![Lab screenshot 6](sc7.webp)
+![Lab screenshot 7](sc8.webp)
+![Lab screenshot 8](sc%2010.webp
 > Screenshots captured during the live lab environment on Skillable.
 
 | Step | Description |
